@@ -19,3 +19,5 @@ The labels vanish while they overlap the plane.
 
 ## Example
 
+https://github.com/user-attachments/assets/68b67cbe-128d-49ec-9d52-b802b98b9e61
+
